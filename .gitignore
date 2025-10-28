@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.asv
+
+# Environments
+ENV/
+uenv/
+.venv
+.vscode/
+
+figures/
+wandb/
+testing/
+outfiles/
+
+# Checkpoints
+checkpoints/
+
+# Data
+
